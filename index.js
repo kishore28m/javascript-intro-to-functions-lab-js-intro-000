@@ -25,7 +25,7 @@ function sayHiToGrandma(string) {
     return "YES INDEED!"
   }
   else {
-    
+
   }*/
   switch (string) {
     case (string.toUpperCase()):
